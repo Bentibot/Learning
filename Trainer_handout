@@ -9,8 +9,8 @@ Milton, VT 05468<br>
 <div id='introduction'>
   <h1>Trainers</h1>
   <img class="irc_mi" src="https://cdn-anythingpawsable.s3.amazonaws.com/uploads/2009/11/Dog-Training-Stay.jpg" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" alt="Image result for dog training" width="304" height="171">
-  <aside><p>Choosing a trainer is important to giving you and your dog the best chance for success with your training goals. Considering location, hours, pricing and training philosophy will help you find a trainer that works for you. After all, training your dog is about making your life easier and developing a better relationship with your dog. 
-  <em>Explore the trainers in the area.</em></p></aside></div>
+  <aside><p>Choosing a trainer is important to giving you and your dog the best chance for success with your training goals. Considering location, hours, pricing and training philosophy will help you find a trainer that works for you. After all, training your dog is about making your life easier and developing a better relationship with your dog. </p>
+  <em>Explore the trainers in the area.</em></aside></div>
 <article>
 <div id='trainer list'> 
   <h2><a href="https://www.goldstardog.com">GoldStar Dog Training</a></h2>
@@ -42,17 +42,25 @@ Milton, VT 05468<br>
       <li>Classes in Williston</li>
       <li>Agility classes only currently</li>
   <h2><a href="https://www.wagglesvermont.com/">Waggles</a>
+    <ul>
+      <li>Classes in Williston</li>
+      <li>Dog and puppy basic training classes, agility, canine good citizen, private lessons</li>
+      <li>Training housecalls</li></ul>
+  <h2><a href="https://www.petsmart.com/store-locator/store/?storeID=0787">Petsmart</a></h2>
+    <ul>
+      <li>Classes in Williston</li>
+      <li>Positive reinforcement</li>
+      <li>Dog and puppy basic training classes</li></ul>
+  <h2><a href="https://vermontdogpack.com/">Vermont Dog Pack</a></h2>
+  <ul>
+    <li></li></ul>
 <article></body></html>
-<!--Classes in Williston
-Dog and puppy basic training classes, agility, canine good citizen, private lessons
-Training housecalls
+<!--
 
-https://www.petsmart.com/store-locator/store/?storeID=0787 Petsmart
-Classes in Williston
-Positive reinforcement
-Dog and puppy basic training classes
 
-https://vermontdogpack.com/ Vermont Dog Pack
+
+
+
 Classes in Burlington
 Several training packages from puppy and basic training to helping create calmness and good manners.
 Two week board and train option
