@@ -1,0 +1,7 @@
+HTML forms
+<form action="/example.html" method="POST"></form>
+Will send a notification to example.html as a POST request (capitalize method)
+The input is a child of the form 
+<input type="text" name="first-text-field" value="info here">
+Input type renders a field on the page that will accept a certain type of information. 
+The name helps input be processed where it is sent
