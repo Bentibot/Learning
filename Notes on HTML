@@ -9,9 +9,11 @@ type="text"
 type="password" replaces input text with ****
 type="range" creates a slider
 step="1" attribute indicates how fluidly the slider will move
+type="checkbox" adds a checkbox that must have its own label and input tags for each checkbox
+type="radio"
 Name helps input be processed where it is sent
 Value attribute will pre-fill the text field. The value can be replaced by what the user inputs
 <label></label>
 Label is a child of the form
 Label tells us what the input field is for
-For attribute matches the id attribute in input  
+For attribute matches the id attribute in input 
