@@ -2,6 +2,16 @@ HTML forms
 <form action="/example.html" method="POST"></form>
 Will send a notification to example.html as a POST request (capitalize method)
 The input is a child of the form 
-<input type="text" name="first-text-field" value="info here">
+<input type="text" name="first-text-field" value="info here" id="matches with for in label">
 Input type renders a field on the page that will accept a certain type of information. 
-The name helps input be processed where it is sent
+type="number"
+type="text"
+type="password" replaces input text with ****
+type="range" creates a slider
+step="1" attribute indicates how fluidly the slider will move
+Name helps input be processed where it is sent
+Value attribute will pre-fill the text field. The value can be replaced by what the user inputs
+<label></label>
+Label is a child of the form
+Label tells us what the input field is for
+For attribute matches the id attribute in input  
