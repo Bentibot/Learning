@@ -7,10 +7,13 @@ Input type renders a field on the page that will accept a certain type of inform
 type="number"
 type="text"
 type="password" replaces input text with ****
+type="number"
 type="range" creates a slider
 step="1" attribute indicates how fluidly the slider will move
 type="checkbox" adds a checkbox that must have its own label and input tags for each checkbox
 type="radio"
+type="list" will pair the <input> with a <datalist> element
+type="submit" will make a submit button
 Name helps input be processed where it is sent
 Value attribute will pre-fill the text field. The value can be replaced by what the user inputs
 <label></label>
